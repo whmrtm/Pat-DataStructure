@@ -4,11 +4,12 @@ Data structure exercises written in c++
 
 ## Including
 * Subsequence
-* Tree  
-    *Binary Tree  
-    *BST, AVL  
-    *Splay Tree  
-*Sort  
-*Graph  
-*Hash Table  
+* Tree
+    * Binary Tree
+    * BST, AVL
+    * Splay Tree
+* Sort
+* Graph
+* Hash Table
+
 ***
